@@ -1,0 +1,93 @@
+{
+  "UserDetails": [
+    {
+      "fname": "Harshit",
+      "lname": "Gupta",
+      "phone": "1234567890",
+      "email": "harshit12345h@gmail.com",
+      "password": "qwert",
+      "id": 1,
+      "address": "B block, new agra",
+      "city": "agra",
+      "state": "up",
+      "pincode": "282987",
+      "country": "india"
+    },
+    {
+      "fname": "Ayush",
+      "lname": "Gupta",
+      "phone": "8171232748",
+      "email": "ayush@gmail.com",
+      "password": "qwertyuiop",
+      "id": 2
+    }
+  ],
+  "ProductDetails": [
+    {
+      "title": "Redmi Note 11 PRO Plus 5G (Mirage Blue, 128 GB)  (8 GB RAM)",
+      "brand": "Mi",
+      "category": "smartphone",
+      "price": "23999",
+      "stock": "65",
+      "rating": "4",
+      "description": "The latest Snapdragon 695 5G SoC ensures superior performance and gaming experience. The device is future-ready with support for 7 5G bands. ",
+      "views": 366,
+      "id": 5
+    },
+    {
+      "title": "HP Pavilion Aero Ryzen 5 Hexa Core 5600U",
+      "brand": "Hp",
+      "category": "laptop",
+      "price": "64499",
+      "stock": "5",
+      "rating": "4",
+      "description": "13.3 inch \"WUXGA, IPS, micro-edge, anti-glare (Brightness: 400 nits, 170 ppi,Color Gamut: 100% sRGB) ",
+      "views": 75,
+      "id": 6
+    },
+    {
+      "title": "SAMSUNG Galaxy M52 5G (Blazing Black, 128 GB)  (6 GB RAM)",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": "22900",
+      "stock": "17",
+      "rating": "3",
+      "description": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+      "views": 27,
+      "id": 7
+    },
+    {
+      "title": "APPLE 2020 Macbook Pro M1",
+      "brand": "Apple",
+      "category": "laptop",
+      "price": "132900",
+      "stock": "2",
+      "rating": "4",
+      "description": "",
+      "views": 90,
+      "id": 8
+    },
+    {
+      "title": "realme 9 Pro+ 5G (Aurora Green, 128 GB)  (6 GB RAM)",
+      "brand": "Realme",
+      "category": "smartphone",
+      "price": "24999",
+      "stock": "18",
+      "rating": "5",
+      "description": "",
+      "views": 41,
+      "id": 9
+    },
+    {
+      "title": "DELL Inspiron Athlon Dual Core 3050U ",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": "33290",
+      "stock": "57",
+      "rating": "3",
+      "description": "15.6 Inch HD AG Narrow Border.Light Laptop without Optical Disk Drive",
+      "views": 79,
+      "id": 10
+    }
+  ]
+}

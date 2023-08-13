@@ -1,0 +1,53 @@
+.carousel-control-next,
+.carousel-control-prev {
+    width: 9%;
+}
+
+.carousel-caption {
+    bottom: 75px;
+}
+
+.home-img {
+    display: block;
+    height: 72.5vh;
+    width: 100%;
+}
+
+.banner-title h1 {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 1.2;
+    margin-bottom: 40px;
+}
+
+.banner-title p {
+    color: #888ca8;
+    font-size: 18px;
+    font-weight: 500;
+    padding-right: 90px;
+    margin-bottom: 55px;
+}
+
+.banner-image {
+    display: block;
+    width: 100%;
+    height: 75vh;
+}
+
+.card {
+    will-change: transform;
+    border: 0 solid rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+
+.card-home-img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px
+}
+
+.card-footer {
+    background-color: #fff;
+    border: none;
+    border-bottom-left-radius: 15px !important;
+    border-bottom-right-radius: 15px !important;
+}

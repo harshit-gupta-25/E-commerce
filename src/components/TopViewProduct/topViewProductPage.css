@@ -1,0 +1,7 @@
+.viewPage-header {
+    background: url('../../assets/profile-header-pattern.png') no-repeat center center;
+    background-size: cover;
+    height: 100px;
+    background-color: rgb(29, 59, 83);
+    --bs-bg-opacity: 1;
+}

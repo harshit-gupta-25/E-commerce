@@ -1,0 +1,20 @@
+.search-form {
+    border-radius: 0.5rem;
+}
+
+.search-input {
+    border: none !important;
+}
+
+.search-input:focus {
+    box-shadow: none !important;
+}
+
+.search-button {
+    border-radius: 0.5rem !important;
+}
+
+.search-button:focus,
+.search-button:active {
+    box-shadow: none !important;
+}

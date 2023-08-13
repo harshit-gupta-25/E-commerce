@@ -1,0 +1,93 @@
+.product-header {
+    background: url('../../assets/profile-header-pattern.png') no-repeat center center;
+    background-size: cover;
+    height: 100px;
+}
+
+.product-content {
+    padding: 3rem 0;
+}
+
+.product-checkbox {
+    width: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-title {
+    color: #24292d;
+    text-decoration: none;
+    cursor: default;
+}
+
+.product-card-img {
+    height: 100%;
+    width: 100%;
+}
+
+.product-item {
+    color: #24292d !important;
+    margin-bottom: 0 !important;
+    border: none;
+}
+
+.card-header {
+    border-top-left-radius: 15px !important;
+    border-top-right-radius: 15px !important;
+}
+
+.product-form-container {
+    width: 550px;
+}
+
+.form-title {
+    display: block;
+    font-weight: bolder;
+    font-size: 42px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.form-container {
+    border-bottom: 2px solid #d9d9d9;
+}
+
+.form-input {
+    border: none;
+}
+
+.form-input:focus {
+    box-shadow: none;
+}
+
+.form-row {
+    width: 48%;
+    flex: none;
+}
+
+.form-button {
+    height: 50px;
+    border-radius: 25px;
+}
+
+.form-error {
+    color: #ff6565;
+}
+
+.form-error-none {
+    margin-top: 20px;
+}
+
+.form-error-block {
+    border: 2px solid #ff6565;
+}
+
+.form-error-block:focus {
+    border-color: #ff6565;
+    box-shadow: none;
+}
+
+.form-label {
+    padding-left: 10px;
+}
